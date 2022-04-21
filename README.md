@@ -1,0 +1,2 @@
+# areaTriangulo
+Created with CodeSandbox
